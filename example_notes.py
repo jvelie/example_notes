@@ -200,6 +200,6 @@ except:
     int_val = -1
 
 if int_val > 0:
-    print("Nice work")
+    print("Nice work!")
 else:
-    print("Not a nnumber")
+    print("Not a number or above 0")
